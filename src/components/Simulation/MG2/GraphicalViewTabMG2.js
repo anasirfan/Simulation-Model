@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from 'react';
 import './GraphicalViewTabMG2.css';
 
-const GraphicalViewTabMM2 = ({ calculatedData }) => {
+const GraphicalViewTabMG2 = ({ calculatedData }) => {
   const server1GanttChartRef = useRef(null);
   const server2GanttChartRef = useRef(null);
 
@@ -74,4 +74,4 @@ const GraphicalViewTabMM2 = ({ calculatedData }) => {
   );
 };
 
-export default GraphicalViewTabMM2;
+export default GraphicalViewTabMG2;
