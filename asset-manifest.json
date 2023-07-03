@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Simulation-Model/static/css/main.0d2ea276.css",
+    "main.js": "/Simulation-Model/static/js/main.fcd345bd.js",
+    "static/media/animation.webm": "/Simulation-Model/static/media/animation.23f16b25f3f407d9514c.webm",
+    "static/media/bg.jpg": "/Simulation-Model/static/media/bg.10c65d341fa348370f25.jpg",
+    "index.html": "/Simulation-Model/index.html",
+    "main.0d2ea276.css.map": "/Simulation-Model/static/css/main.0d2ea276.css.map",
+    "main.fcd345bd.js.map": "/Simulation-Model/static/js/main.fcd345bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d2ea276.css",
+    "static/js/main.fcd345bd.js"
+  ]
+}
